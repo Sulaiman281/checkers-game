@@ -1,0 +1,5 @@
+{
+  "name": "React Checkers",
+  "description": "A classic game of checkers built with React, TypeScript, and Tailwind CSS. Play against a friend on the same screen, capture pieces, and crown your kings to win!",
+  "requestFramePermissions": []
+}
